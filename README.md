@@ -8,6 +8,8 @@
 - App to learn how simple API calls works
 - Design and beautiful UI is not a priority in this application
 - Example of good practice context and navigation
+- ngrok for simple use with jsonserver
+   - it is more complicated to configure jsonserver (physical device running react native) without ngrok because I communicate through wifi
 
 
 ## Index screen (default screen to show all blog posts)
