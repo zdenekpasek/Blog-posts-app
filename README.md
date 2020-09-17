@@ -6,6 +6,7 @@
 - Jsonserver
 - Add, edit, delete blog posts
 - App to learn how simple API calls works
+- Design and beautiful UI is not a priority in this application
 - Example of good practice context and navigation
 
 
