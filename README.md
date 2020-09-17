@@ -9,3 +9,7 @@
 - Example of good practice context and navigation
 
 
+## Index screen (default screen to show all blog posts)
+![Image](https://user-images.githubusercontent.com/45901583/93501596-f5b30100-f915-11ea-852b-23d1beb767e7.png)
+
+
